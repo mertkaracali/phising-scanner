@@ -1,6 +1,10 @@
 # phising-scanner
 WHM / cPanel Phishing Scanner
 
+Kurulum adımları:
+Terminal (SSH) üzerine aşağıdaki komutları girerek phising scanner kurabilirsiniz.
+
+bash <(curl https://raw.githubusercontent.com/mertkaracali/phising-scanner/refs/heads/main/install.sh)
 
 
 WHM / cPanel Phishing Scanner: Web Sunucularını Güvenli Tutmak İçin Etkili Bir Araç
